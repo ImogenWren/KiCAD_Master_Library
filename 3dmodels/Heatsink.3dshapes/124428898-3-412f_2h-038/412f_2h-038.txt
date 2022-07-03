@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"SUPPLIER";"ebm-papst";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-09122014-119510";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"ebm-papst 400F Series Axial Fan, 40 x 40 x 10mm, 9m³/h, 800mW, 12 V dc";"";
+"TraceParts.InstanceId";"10-09122014-1195106US18WEO3EBL4O9BUYZ59W2OO";"";
+"TraceParts.PartTitle";"ebm-papst 400F Series Axial Fan, 40 x 40 x 10mm, 9m³/h, 800mW, 12 V dc";"";
+"REFERENCE";"412F/2H-038";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/426386?cm_mmc=en-ds-_-mcad-_-traceparts-_-426386'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"426386";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-09122014-119510";"";

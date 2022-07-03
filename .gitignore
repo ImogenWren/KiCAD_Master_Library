@@ -4,4 +4,5 @@
 
 
 # Exclude 3D Model file due to repo size concerns
-3dmodels/
+#3dmodels/
+#Trying to add models, only 5GB should be fine

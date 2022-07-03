@@ -1,0 +1,7 @@
+
+
+
+
+
+# Exclude 3D Model file due to repo size concerns
+3dmodels/

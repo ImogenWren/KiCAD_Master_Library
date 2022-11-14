@@ -12,7 +12,7 @@
     (property "Datasheet" "~" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Control" "Current" (id 4) (at 6.35 3.048 0)
+    (property "NAME" "Control" (id 4) (at 6.35 3.048 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "resistor variable trimpot trimmer" (id 5) (at 0 0 0)

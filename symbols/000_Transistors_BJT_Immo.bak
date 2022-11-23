@@ -107,7 +107,7 @@
     (property "Spice_Primitive" "Q" (id 4) (at 12.7 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Spice_Model" "BC817-40" (id 5) (at 7.62 8.255 0)
+    (property "Spice_Model" "BC817" (id 5) (at 7.62 8.255 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Spice_Netlist_Enabled" "Y" (id 6) (at 10.16 5.08 0)

@@ -1,6 +1,6 @@
 (footprint "1n4148" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 636CF14C)
+  (tedit 638DFBE8)
   (descr "DO-41 0.3\" PAD SPACING")
   (tags "DO-41 0.3\" PAD SPACING")
   (attr exclude_from_pos_files exclude_from_bom)
@@ -28,8 +28,8 @@
   (fp_line (start -1.143 1.27) (end -1.143 -1.27) (layer "F.SilkS") (width 0.06604) (tstamp cd1207ea-a875-4450-8b61-856fdcf0def9))
   (fp_line (start 2.032 1.27) (end -2.032 1.27) (layer "F.SilkS") (width 0.1524) (tstamp d3f1c78a-59ad-4654-8399-b03b622c5a37))
   (fp_line (start 2.413 0.381) (end 2.413 -0.381) (layer "F.SilkS") (width 0.06604) (tstamp fcc0dfa3-8274-4b48-b945-ab7b575b4608))
-  (pad "A" thru_hole circle (at 3.81 0) (size 1.99898 1.99898) (drill 0.99822) (layers *.Cu *.Paste *.Mask) (tstamp f3aaf317-298c-41d4-ad96-c00ebe12d408))
-  (pad "C" thru_hole rect (at -3.81 0) (size 1.99898 1.99898) (drill 0.99822) (layers *.Cu *.Paste *.Mask) (tstamp b43a8d18-e334-44ff-a5ab-b672010729a3))
+  (pad "1" thru_hole circle (at 3.81 0) (size 1.99898 1.99898) (drill 0.99822) (layers *.Cu *.Paste *.Mask) (tstamp f3aaf317-298c-41d4-ad96-c00ebe12d408))
+  (pad "2" thru_hole rect (at -3.81 0) (size 1.99898 1.99898) (drill 0.99822) (layers *.Cu *.Paste *.Mask) (tstamp b43a8d18-e334-44ff-a5ab-b672010729a3))
   (model "${KISYS3DMOD}/Discret.3dshapes/DO-35.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 0.3 0.3 0.3))

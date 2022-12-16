@@ -22824,7 +22824,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "TP0610T" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "TP0610T" (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )

@@ -4024,7 +4024,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "BSR56" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "BSR56" (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )

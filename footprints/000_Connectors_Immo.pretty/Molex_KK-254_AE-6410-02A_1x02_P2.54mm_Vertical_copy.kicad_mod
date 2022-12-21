@@ -1,4 +1,4 @@
-(footprint "Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" (version 20211014) (generator pcbnew)
+(footprint "Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical_copy" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 63A22CE3)
   (descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")

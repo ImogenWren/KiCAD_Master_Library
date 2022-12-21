@@ -2190,7 +2190,7 @@
     (property "Value" "LM386" (id 1) (at 1.27 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "000 IC Immo:DIL8" (id 2) (at 2.54 2.54 0)
+    (property "Footprint" "" (id 2) (at 2.54 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm386.pdf" (id 3) (at 5.08 5.08 0)

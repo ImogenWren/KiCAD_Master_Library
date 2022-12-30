@@ -1,6 +1,6 @@
 (footprint "TerminalBlock_Altech_AK300-2_P5.00mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63A21EA0)
+  (tedit 63AE0F71)
   (descr "Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf")
   (tags "Altech AK300 terminal block pitch 5.0mm")
   (attr through_hole)
@@ -123,6 +123,11 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask) (tstamp de918b3b-76fa-48f2-8320-8cea77cdcb48))
   (pad "2" thru_hole oval (at 5 0) (size 1.98 3.96) (drill 1.32) (layers *.Cu *.Mask) (tstamp 5d912ae7-6624-4822-b4cc-37ac9e6efb8b))
   (model "C:/Program Files/KiCad/6.0/share/kicad/3dmodels/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

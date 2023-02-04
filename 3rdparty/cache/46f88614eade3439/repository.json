@@ -7,13 +7,13 @@
     },
     "name": "KiCad official repository",
     "packages": {
-        "sha256": "58d4bdc3990865759ba44cd2746db025c77dbfc5df3f4204ee35853cac2250d9",
-        "update_timestamp": 1655727620,
+        "sha256": "b780a1e4a7facf1666a0fbb4ce62b1b5e303e1313bad6fc46da94cb4c678f154",
+        "update_timestamp": 1670324598,
         "url": "https://gitlab.com/kicad/addons/repository/-/raw/main/packages.json"
     },
     "resources": {
-        "sha256": "ba2c38c6a151a05f28266a98e1e0368ba8c67815f22d2c8389aa6ae202b728c8",
-        "update_timestamp": 1655727620,
+        "sha256": "7c157d3ce95f008a574b62d1bd1cd9a9b01388a98451c5fb16aea787056d2984",
+        "update_timestamp": 1670324597,
         "url": "https://gitlab.com/kicad/addons/repository/-/jobs/artifacts/main/raw/artifacts/resources.zip?job=update"
     }
 }
